@@ -1,0 +1,13 @@
+package com.fatec.manterLivros;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Req01ManterLivrosApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
