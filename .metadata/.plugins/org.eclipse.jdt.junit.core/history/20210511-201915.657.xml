@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="REQ02ManterLivrosTest" project="SeleniumWebDriverTests" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.fatec.manterLivros.REQ02ManterLivrosTest" time="18.107" displayname="REQ02ManterLivrosTest" uniqueid="[engine:junit-jupiter]/[class:com.fatec.manterLivros.REQ02ManterLivrosTest]">
-    <testcase name="REQ02ManterLivros" classname="com.fatec.manterLivros.REQ02ManterLivrosTest" time="18.107" displayname="REQ02ManterLivros()" uniqueid="[engine:junit-jupiter]/[class:com.fatec.manterLivros.REQ02ManterLivrosTest]/[method:REQ02ManterLivros()]"/>
-  </testsuite>
-</testrun>

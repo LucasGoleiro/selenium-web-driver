@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="REQ04ManterAlunoTest" project="SeleniumWebDriverTests" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.fatec.tests.REQ04ManterAlunoTest" time="11.013" displayname="REQ04ManterAlunoTest" uniqueid="[engine:junit-jupiter]/[class:com.fatec.tests.REQ04ManterAlunoTest]">
-    <testcase name="REQ04ManterAluno" classname="com.fatec.tests.REQ04ManterAlunoTest" time="11.013" displayname="REQ04ManterAluno()" uniqueid="[engine:junit-jupiter]/[class:com.fatec.tests.REQ04ManterAlunoTest]/[method:REQ04ManterAluno()]"/>
-  </testsuite>
-</testrun>
